@@ -1,0 +1,7 @@
+h1{font-size: 2rem; text-align: center;}
+#photo{
+    display: flex;
+    justify-content: center;
+}
+a{background-color: blue; color: white;text-decoration: none; font-size: 1.5rem; padding: 2px; border-radius: 8px;}
+a:hover{border: red 0.5px solid;}

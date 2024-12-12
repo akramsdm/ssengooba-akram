@@ -3,5 +3,11 @@ h1{font-size: 2rem; text-align: center;}
     display: flex;
     justify-content: center;
 }
-a{background-color: blue; color: white;text-decoration: none; font-size: 1.5rem; padding: 2px; border-radius: 8px;}
+a{background-color: blue; 
+    color: white;text-decoration: none; 
+    font-size: 1.5rem; padding: 2px; 
+    border-radius: 8px;}
 a:hover{border: red 0.5px solid;}
+.acont{display: flex; flex-direction: row;
+margin-left:30px;}
+.acont a{margin-right: 10px;}
